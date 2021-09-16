@@ -5,43 +5,40 @@ categories: [Educational Resources]
 tags: []     
 ---
 
-# General Neurologic Exam
+# <font color="#992374">General Neurologic Exam</font>
 
-- [Neuroexam:Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com)
+- [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield - Videos](https://neuroexam.com)
+- [Harrison's Detailed Neurological Exam by Martin Samuel - Videos](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659) - Access Required
 - [The Precise Neurological Exam by NYU](https://informatics.med.nyu.edu/modules/pub/neurosurgery/)
-- [Harrison's Neuro Exam: Martin Samuel]
--  
-
-
-##Mental status 
 
 
 
-
-## Cranial Nerves
-
+### Mental status 
 
 
-## Motor 
+### Cranial Nerves
 
 
-
-##Sensory Exam
+### Motor 
 
 
 
-##Cerebellar exam and coordination
+### Sensory Exam
 
 
 
-## Gait
+### Cerebellar exam and coordination
+
+
+
+### Gait
 - [Harrison's Video Library of Gait Disorders](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510592)
 - [Stanford 25 Gait Examination](https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx)
 
 
-#Neurological Exam in Special Cases
+# <font color="#992374">Neurological Exam in Special Cases</font>
 
-##Coma
+## Unresponsive Patients
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
 2. 
