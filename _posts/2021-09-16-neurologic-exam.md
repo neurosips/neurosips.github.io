@@ -6,14 +6,12 @@ tags: []
 ---
 
 # <font color="#992374">General Neurologic Exam</font>
-
-- [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield - Videos](https://neuroexam.com)
-- [Harrison's Detailed Neurological Exam by Martin Samuel - Videos](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659) - Access Required
-- [The Precise Neurological Exam by NYU](https://informatics.med.nyu.edu/modules/pub/neurosurgery/)
-
+- [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659) is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
+- [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com) is another good colleciton of short neurological exam videos. 
 
 
 ### Mental status 
+
 
 
 ### Cranial Nerves
