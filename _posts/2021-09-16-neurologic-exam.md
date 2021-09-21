@@ -6,16 +6,18 @@ tags: []
 ---
 
 # <font color="#992374">General Neurologic Exam</font>
-- [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659) is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
+- [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
 - [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com) is another good colleciton of short neurological exam videos. 
 
 
 ### Mental status 
-
+- Watch Mental Status exam by Dr.Martin Samuels (link above)
+- Read Continuum's article on [Bedside Approach to the Mental Status Assessment](https://journals.lww.com/continuum/Abstract/2018/06000/Bedside_Approach_to_the_Mental_Status_Assessment.4.aspx)
 
 
 ### Cranial Nerves
-
+- Watch Cranial Nerves exam by Dr.Martin Samuels (link above)
+- 
 
 ### Motor 
 
