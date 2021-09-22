@@ -10,7 +10,8 @@ This is something that happened to a 70 year old woman that I had pleasure of se
 <br>
 Several questions have occupied the mind of neurologists since description of TGA. Is TGA a presentation of acute stroke? Is TGA associated with a lesion in the brain and if it is, where do lesions localize to? 
 <br>
-In the past two decades, advanced imaging techniques have cast new light on these questions and provided some insight regarding the role of human hippocampal subregions in the formation of new memories. These studies have shown that a large number of patients with TGA have DWI restricted diffusions in the hippocampus. These lesions behave similar to ischemic lesions in other parts of the brain[ref].  
+In the past two decades, advanced imaging techniques have cast new light on these questions and provided some insight regarding the role of human hippocampal subregions in the formation of new memories. These studies have shown that a large number of patients with TGA have DWI restricted diffusions in the hippocampus[ref]. These lesions behave similar to ischemic lesions in other parts of the brain[ref].  
+
 
 
 
