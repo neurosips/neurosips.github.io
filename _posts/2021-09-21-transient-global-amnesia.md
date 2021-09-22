@@ -1,6 +1,6 @@
 ---
 title: Transient Global Amnesia 
-date: 2021-09-21 14:52:00 
+date: 2021-09-21 23:34:00
 categories: [Rare and Interesting]
 tags: [memory,hippocampus,cognitive,stroke]     
 ---
