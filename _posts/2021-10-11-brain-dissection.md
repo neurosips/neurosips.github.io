@@ -3,7 +3,7 @@ title: Brain Dissection
 author: Neuro Coffee,MD
 date: 2021-10-11 20:30:00
 categories: [Neuroanatomy]
-tags: [dissection]
+tags: [brain dissection]
 ---
 
 If you are one of those people who learn more from experiencing rather than reading dry facts in the books, brain dissection is definitely for you. There are multiple great 
