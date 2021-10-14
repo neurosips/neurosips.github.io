@@ -1,6 +1,7 @@
 ---
 title: Resources to learn Neurologic Exam
 date: 2021-09-16 15:38:00 
+author: Neuro Coffee, MD
 categories: [Neurologic Exam]
 tags: [learning resources]     
 ---
@@ -9,26 +10,21 @@ tags: [learning resources]
 - [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
 - [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com) is another good colleciton of short neurological exam videos. 
 
-
+# <font color="#992374">In-Depth Neurologic Exam</font>
 ### Mental status 
-- Watch Mental Status exam by Dr.Martin Samuels (link above)
 - Read Continuum's article on [Bedside Approach to the Mental Status Assessment](https://journals.lww.com/continuum/Abstract/2018/06000/Bedside_Approach_to_the_Mental_Status_Assessment.4.aspx)
 
 
 ### Cranial Nerves
-- Watch Cranial Nerves exam by Dr.Martin Samuels (link above)
-- 
+
 
 ### Motor 
-
 
 
 ### Sensory Exam
 
 
-
 ### Cerebellar exam and coordination
-
 
 
 ### Gait
@@ -41,7 +37,7 @@ tags: [learning resources]
 ## Unresponsive Patients
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
-2. 
+
 
 
 
