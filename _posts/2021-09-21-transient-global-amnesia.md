@@ -1,8 +1,8 @@
 ---
 title: Transient Global Amnesia 
 date: 2021-09-21 23:34:00
-categories: [Rare and Interesting]
-tags: [memory,hippocampus,cognitive,stroke]     
+categories: [Neuroscience]
+tags: [memory,hippocampus]     
 ---
 Imagine you wake up in the morning and you are excited about having coffee with your friend in a new cafe. You take a shower and put your good clothes on. While brushing your teeth, you look in the miror and suddenly you feel confused. You desperately struggle to remember why you have your good clothes on and where you were heading to. You go back to your room and wonder who put a new frame on your wall. You ask your partner if she hung the new frame and in your amazement she says you did it yourself two nights ago. A few minutes later, you ask your partner who hung a new frame on your wall and with that question, you buy yourself a visit to the ED. 
 <br />
