@@ -5,7 +5,7 @@ date: 2021-09-16 15:38:00
 categories: [Neurologic Exam]
 tags: [motor exam,motor tone]
 ---
-We hear a lot about increased motor tone. There are basically two types of increased tone: hypertonia and spacticity. Differentiating between these two are essential for localization of lesion and the underlying pathology. The table below summarizes the main differences between hypertonia and spacticity:
+We hear a lot about increased motor tone or hypertonia. There are basically two types of increased tone: rigidity and spacticity. Differentiating between these two are essential for lesion localizaiton and characterizing the underlying pathology. The table below summarizes the main differences between rigidity and spacticity:
 
 |Spasticity  |Rigidity |
 |-----------|----------|
