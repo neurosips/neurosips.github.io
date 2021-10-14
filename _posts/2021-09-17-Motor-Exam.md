@@ -3,7 +3,7 @@ title: Motor Exam
 author: Ehsan Tadayon, MD
 date: 2021-09-16 15:38:00
 categories: [Neurologic Exam]
-tags: [motor]
+tags: [motor exam]
 ---
 # Motor exam
 
