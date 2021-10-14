@@ -1,8 +1,8 @@
 ---
-title: Neurologic Exam
+title: Resources to learn Neurologic Exam
 date: 2021-09-16 15:38:00 
-categories: [Educational Resources]
-tags: []     
+categories: [Neurologic Exam]
+tags: [learning resources]     
 ---
 
 # <font color="#992374">General Neurologic Exam</font>
