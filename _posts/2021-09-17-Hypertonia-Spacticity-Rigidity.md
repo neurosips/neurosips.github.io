@@ -5,7 +5,7 @@ date: 2021-09-16 15:38:00
 categories: [Neurologic Exam]
 tags: [motor exam,motor tone]
 ---
-## Hypertonia: Spasticity vs. Rigidity 
+We hear a lot about increased motor tone. There are basically two types of increased tone: hypertonia and spacticity. Differentiating between these two are essential for localization of lesion and the underlying pathology. The table below summarizes the main differences between hypertonia and spacticity:
 
 |Spasticity  |Rigidity |
 |-----------|----------|
@@ -14,4 +14,6 @@ tags: [motor exam,motor tone]
 |More resistance in one direction|Same resistance in all directions|
 |Velocity dependent: more with fast movements|Velocity independent: Does not vary with speed|
 |More tone in initial part of movement ("Clasp Knife Spasticity")|Subtypes include Cog-wheel rigidity (Parkinson's diseaes) and Lead pipe rigidity (Neuroleptic Malignant Syndrome)|
+
+
 
