@@ -1,12 +1,10 @@
 ---
-title: Motor Exam
-author: Ehsan Tadayon, MD
+title: Hypertonia:Spasticity vs. Rigidity
+author: Neuro Coffee, MD
 date: 2021-09-16 15:38:00
 categories: [Neurologic Exam]
-tags: [motor exam]
+tags: [motor exam,motor tone]
 ---
-# Motor exam
-
 ## Hypertonia: Spasticity vs. Rigidity 
 
 |Spasticity  |Rigidity |
