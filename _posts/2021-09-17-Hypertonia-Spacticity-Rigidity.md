@@ -1,5 +1,5 @@
 ---
-title: Hypertonia: Spasticity versus Rigidity
+title: Hypertonia:Spasticity vs. Rigidity
 author: Neuro Coffee, MD
 date: 2021-09-16 15:38:00
 categories: [Neurologic Exam]
