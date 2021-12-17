@@ -1,5 +1,5 @@
 ---
-title: Resources to learn Neurologic Exam
+title: Resources to Learn About Neurologic Exam
 date: 2021-09-16 15:38:00 
 author: Neuro Coffee, MD
 categories: [Neurologic Exam]
