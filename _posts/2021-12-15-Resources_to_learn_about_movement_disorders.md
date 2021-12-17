@@ -1,5 +1,5 @@
 ---
-title: Resources to Learn about Movement Disorders
+title: Resources to Learn About Movement Disorders
 author: Neuro Coffee,MD
 date: 2021-12-16 20:47:00
 categories: [Movement Disorders]
