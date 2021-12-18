@@ -15,8 +15,8 @@ tags: [learning resources, EEG]
 <br> 
 <br>
 <h2> Other resources: </h2> 
-- [EEG Basics ](https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp) 
-- [American Epilepsy Society Free EEG Course](https://www.aesnet.org/education/courses) 
+- [EEG Basics ](https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp)
+-  [American Epilepsy Society Free EEG Course](https://www.aesnet.org/education/courses) 
 
 
 
