@@ -1,6 +1,6 @@
 ---
 title: Educational Resources for Neurology Residents 
-date: 2021-01-21 
+date: 2022-01-06 
 author: Neuro Coffee, MD
 categories: [education]
 tags: [learning resources]     
