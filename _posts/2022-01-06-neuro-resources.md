@@ -15,20 +15,20 @@ tags: [learning resources]
 - [UCSD The Neurological Exam](https://meded.ucsd.edu/clinicalmed/neuro2.html)
 
 ## <font color="#fa8939"><em>In-Depth Neurologic Exam</em></font>
-### <font color='#d9d7d2'>Mental status</font> 
+### <font color='#9c9997'>Mental status</font> 
 - Read Continuum's article on [Bedside Approach to the Mental Status Assessment](https://journals.lww.com/continuum/Abstract/2018/06000/Bedside_Approach_to_the_Mental_Status_Assessment.4.aspx)
 
-### <font color='#d9d7d2'>Cranial Nerves</font>
+### <font color='#9c9997'>Cranial Nerves</font>
 - [Cranial nerve assessment: A concise guide to clinical examination](https://onlinelibrary.wiley.com/doi/full/10.1002/ca.22336)
 
 
-### <font color='#d9d7d2'>Gait</font>
+### <font color='#9c9997'>Gait</font>
 - [Harrison's Video Library of Gait Disorders](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510592)
 - [Stanford 25 Gait Examination](https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx)
 
 ## <font color="#fa8939"><em>Neurological Exam in Special Cases</em></font>
 
-### <font color='#d9d7d2'>Unresponsive Patients</font>
+### <font color='#9c9997'>Unresponsive Patients</font>
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
 
