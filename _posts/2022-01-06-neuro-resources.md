@@ -1,36 +1,26 @@
 ---
 title: Educational Resources for Neurology Residents 
 date: 2022-01-06 
-author: Neuro Coffee, MD
 categories: [education]
 tags: [learning resources]     
 ---
-
-#Neurologic exam
-```
-## <font color="#fa8939"><em>General Neurologic Exam</em></font>
+# Neurologic Exam
+## General Neurologic Exam
 - [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
 - [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com) is another good colleciton of short neurological exam videos. 
 - [UCSD The Neurological Exam](https://meded.ucsd.edu/clinicalmed/neuro2.html)
 
-## <font color="#fa8939"><em>In-Depth Neurologic Exam</em></font>
-### <font color='#9c9997'>Mental status</font> 
-- Read Continuum's article on [Bedside Approach to the Mental Status Assessment](https://journals.lww.com/continuum/Abstract/2018/06000/Bedside_Approach_to_the_Mental_Status_Assessment.4.aspx)
-
-### <font color='#9c9997'>Cranial Nerves</font>
-- [Cranial nerve assessment: A concise guide to clinical examination](https://onlinelibrary.wiley.com/doi/full/10.1002/ca.22336)
-
-
-### <font color='#9c9997'>Gait</font>
+## More In-Depth Neurologic Exam
+### Gait
+```markdown
 - [Harrison's Video Library of Gait Disorders](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510592)
 - [Stanford 25 Gait Examination](https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx)
+```
 
-## <font color="#fa8939"><em>Neurological Exam in Special Cases</em></font>
-
-### <font color='#9c9997'>Unresponsive Patients</font>
+## Neurologic Exam in Particular Disorders
+### Approach to an unresponsvive patient
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
-```
 
 
 
