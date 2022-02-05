@@ -45,7 +45,7 @@ Other useful resources:
 # Vascular Neurology
 ---
 ## Stroke Imaging
-- [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA): provides a short and easy introduction to CT perfusion imaging and its parameters. 
+- [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA): provides a short and easy introduction to CT perfusion imaging and its parameters.{:target="_blank"} 
 
 
 # Movement disorder
