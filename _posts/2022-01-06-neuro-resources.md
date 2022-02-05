@@ -4,6 +4,7 @@ date: 2022-01-06
 categories: [education]
 tags: [learning resources]     
 ---
+
 # Neurologic Exam
 ---
 ## >> General Neurologic Exam
@@ -23,9 +24,6 @@ tags: [learning resources]
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
 
-
-
-
 # Neuroanatomy
 ---
 ## >> Brain Dissection
@@ -33,10 +31,6 @@ tags: [learning resources]
 - [UBC Neuroanatomy](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9)
 
 
-
-
-
----
 # Epilepsy and EEG
 ---
 ## >> From Basics to Advanced EEG
@@ -48,15 +42,11 @@ tags: [learning resources]
 - [American Epilepsy Society Free EEG Course](https://www.aesnet.org/education/courses){:target="_blank"} 
 
 
-
----
 # Movement disorder
 ---
 - [Yale Movement Disorders Modules](https://movementmodules.yale.edu/)
 
 
-
----
 # Neuro-ophthalmology
 ---
 - [How to Use an Ophthalmoscope](https://www.bmj.com/content/329/7461/s56)
