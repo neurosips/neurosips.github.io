@@ -14,10 +14,9 @@ tags: [learning resources]
 
 ## >> More In-Depth Neurologic Exam
 ### Gait
-```markdown
 - [Harrison's Video Library of Gait Disorders](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510592)
 - [Stanford 25 Gait Examination](https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx)
-```
+
 
 ## >> Neurologic Exam in Particular Disorders
 ### Approach to an unresponsvive patient
