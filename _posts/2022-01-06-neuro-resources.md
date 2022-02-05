@@ -34,7 +34,7 @@ tags: [learning resources]
 # Epilepsy and EEG
 ---
 ## >> From Basics to Advanced EEG
-- [learningeeg.com](https://www.learningeeg.com/) provides a great brief introduction to the basics of EEG. 
+- [learningeeg.com](https://www.learningeeg.com/){target:"_blank"} provides a great brief introduction to the basics of EEG. 
 - [EEG Talks](https://www.youtube.com/channel/UCxpmXPBKKB2hVuxgMd6eR3A){:target="_blank"} 
 
 Other useful resources:
@@ -45,7 +45,7 @@ Other useful resources:
 # Vascular Neurology
 ---
 ## Stroke Imaging
-- [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA): provides a short and easy introduction to CT perfusion imaging and its parameters.{:target="_blank"} 
+- [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA){:target="_blank"} : provides a short and easy introduction to CT perfusion imaging and its parameters.
 
 
 # Movement disorder
