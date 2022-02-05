@@ -13,13 +13,13 @@ tags: [learning resources]
 - [UCSD The Neurological Exam](https://meded.ucsd.edu/clinicalmed/neuro2.html)
 
 ## >> More In-Depth Neurologic Exam
-### Gait
+### <e>Gait</e>
 - [Harrison's Video Library of Gait Disorders](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510592)
 - [Stanford 25 Gait Examination](https://youtu.be/FFki8FtaByw?list=PLwSvYNYMVnQg6hZhISqns7tWrQT50RCsx)
 
 
 ## >> Neurologic Exam in Particular Disorders
-### Approach to an unresponsvive patient
+### <e>Approach to an unresponsvive patient</e>
 - [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624)
 
 
@@ -36,14 +36,14 @@ tags: [learning resources]
 - [learningeeg.com](https://www.learningeeg.com/) provides a great brief introduction to the basics of EEG. 
 - [EEG Talks](https://www.youtube.com/channel/UCxpmXPBKKB2hVuxgMd6eR3A){:target="_blank"} 
 
-<b>Other useful resources:</b> 
+Other useful resources:
 - [EEG Basics ](https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp){:target="_blank"}
 - [American Epilepsy Society Free EEG Course](https://www.aesnet.org/education/courses){:target="_blank"} 
 
 
 # Movement disorder
 ---
-- [Yale Movement Disorders Modules](https://movementmodules.yale.edu/)
+- [Yale Movement Disorders Modules](https://movementmodules.yale.edu/) is an outstanding resource to learn Basics of Movement Disorders.
 
 
 # Neuro-ophthalmology
