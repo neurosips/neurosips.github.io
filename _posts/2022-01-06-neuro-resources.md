@@ -26,25 +26,30 @@ tags: [learning resources]
 
 # Neuroanatomy
 ---
+## Best Neuroanatomy Books: 
+- Nolte's human neuroanatomy is one of the best neuroscience and neuroanatomy textbooks you can find. 
+- Blumenfeld's clinical neuroanatomy is also a very good neuroanatomy textbook that provides good clinical cases as well. 
+
 ## Brain Dissection
 - [University of Utah Brain Dissection](https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html){:target="_blank"} 
 - [UBC Neuroanatomy](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9){:target="_blank"} 
 
 
+
 # Epilepsy and EEG
 ---
 ## From Basics to Advanced EEG
-- [learningeeg.com](https://www.learningeeg.com/){target:"_blank"} provides a great brief introduction to the basics of EEG. 
-- [EEG Talks](https://www.youtube.com/channel/UCxpmXPBKKB2hVuxgMd6eR3A){:target="_blank"}
-
-Other useful resources:
-- [EEG Basics ](https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp){:target="_blank"}
+- [learningeeg.com](https://www.learningeeg.com/){:target:"_blank"} provides a great brief introduction to the basics of EEG. 
+- There are multiple online videos: 
+- [EEG Basics ](https://www.youtube.com/playlist?list=PLxaiR6teSdjoEZWaDWm28A9QjFN7eguAp){:target="_blank"} is a great resource to start learning about EEG. 
+- [EEG Talks](https://www.youtube.com/channel/UCxpmXPBKKB2hVuxgMd6eR3A){:target="_blank"} provides more in-depth discussions, other relevant epilepsy topics, as well as discussions with guests, including Lawrence Hirsch who is an authority in neurocritical care EEG reading. 
+- [EEGucation](https://www.youtube.com/user/EEGucation/featured) is a youtube channel with in-depth lectures on EEG and epilepsy. 
 - [American Epilepsy Society Free EEG Course](https://www.aesnet.org/education/courses){:target="_blank"} 
-
+- <e>Rowan's Primer of EEG</e> is a great introduction to EEG. 
 
 # Vascular Neurology
 ---
-## Stroke Imaging
+- Aaron Berkowitz's chapter on vascular neurology and stroke is a great introduction. 
 - [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA){:target="_blank"} : provides a short and easy introduction to CT perfusion imaging and its parameters.
 
 
