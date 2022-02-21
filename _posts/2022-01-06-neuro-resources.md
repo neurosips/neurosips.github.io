@@ -9,8 +9,8 @@ tags: [learning resources]
 # Neurologic Exam
 ---
 ## General Neurologic Exam
-- [Harrison's Detailed Neurological Exam by Martin Samuel](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuel goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
-- [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Hal Blumenfield](https://neuroexam.com){:target="_blank"}  is another good colleciton of short neurological exam videos. 
+- [Harrison's Detailed Neurological Exam by Dr.Martin Samuels](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuels goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
+- [NeuroExam: Companion to Neuroanatomy Through Clincal Cases by Dr.Hal Blumenfield](https://neuroexam.com){:target="_blank"}  is another good colleciton of short neurological exam videos. 
 - [UCSD The Neurological Exam](https://meded.ucsd.edu/clinicalmed/neuro2.html){:target="_blank"} 
 
 ## More In-Depth Neurologic Exam
@@ -21,7 +21,7 @@ tags: [learning resources]
 
 ## Neurologic Exam in Particular Disorders
 ### <em> >> Approach to an unresponsvive patient</em>
-- [Harrison's Chapter V4: Examination of the comatose patient by Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624){:target="_blank"} 
+- [Harrison's Chapter V4: Examination of the comatose patient by Dr.Andrew Josephson](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510624){:target="_blank"} 
 
 
 # Neuroanatomy
