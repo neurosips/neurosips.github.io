@@ -30,9 +30,9 @@ tags: [learning resources]
 - Nolte's human neuroanatomy is one of the best neuroscience and neuroanatomy textbooks you can find. 
 - Blumenfeld's clinical neuroanatomy is also a very good neuroanatomy textbook that provides good clinical cases as well. 
 
-## Brain Dissection
+## Online resources
 - [University of Utah Brain Dissection](https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html){:target="_blank"} 
-- [UBC Neuroanatomy](https://www.youtube.com/playlist?list=PL242bEng6nyIdshvi_ZUid_i3YctT75q9){:target="_blank"} 
+- [UBC Neuroanatomy](https://neuroanatomy.ca){:target="_blank"} 
 
 
 # Epilepsy and EEG
