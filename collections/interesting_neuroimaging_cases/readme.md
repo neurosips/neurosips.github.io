@@ -1,1 +1,1 @@
-Here, I collect interesting neuroimaging cases. 
+# Collection of Interesting Neuro-Imagings
