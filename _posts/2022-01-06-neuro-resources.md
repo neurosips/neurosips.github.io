@@ -7,7 +7,7 @@ tags: [learning resources]
 ---
 
 <details> 
-  <summary> <h1>Neurologic Exam</h1></summary>
+  <summary><b>Neurologic Exam</b></summary>
   
 ## General Neurologic Exam
 - [Harrison's Detailed Neurological Exam by Dr.Martin Samuels](https://accessmedicine.mhmedical.com/content.aspx?bookid=2129&sectionid=192510659){:target="_blank"} is a great place to start learning about neurological exam. Dr. Samuels goes over mental status, cranial nerves, motor, sensory, reflexes, coordination and gait exams. 
