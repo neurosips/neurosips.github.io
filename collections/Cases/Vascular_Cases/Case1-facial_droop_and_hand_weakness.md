@@ -22,6 +22,7 @@ CTA head and neck showed filling defect starting from right carotid bulb with ex
 
 #### Brain MRI
 Brain MRI was done within 3 hours after stroke code. 
+
 ![DWI1](images/case_1/DWI_1.PNG)
 ![DWI2](images/case_1/DWI2.PNG)
 ![DWI3](images/case_1/DWI_3.PNG)
