@@ -14,10 +14,9 @@ On the way to CT scan, he had a PEA cardiac arrest s/p CPR with ROSC in 3 minute
 ### Imaging
 Finally, the patient is stable and cardiology has arrived at the bedside. They are going over ECG. You ask the team to take the patient to CT:
 
-# Imaging
+# collapsable
 <details>
-  <summary>Click to expand!</summary>
-  
+  <summary>Click to view CT head</summary>
   
 ![figure_1](images/case_2/figure_1.JPG)
   
@@ -25,8 +24,14 @@ Finally, the patient is stable and cardiology has arrived at the bedside. They a
 
 The CT technician, been waiting for almost 30 minutes to do the scan, is asking the nurse to take the patient off the table. However, you ask the technician to proceed with CTA:
 
+# collapsable
+<details>
+  <summary>Click to view CTA</summary>
+  
 ![figure_2](images/case_2/figure_2.JPG)
 
+ </details>
+  
 
 ### Questions
 
