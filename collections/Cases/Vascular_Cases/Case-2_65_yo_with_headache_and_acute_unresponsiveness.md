@@ -12,10 +12,16 @@ On the way to CT scan, he had a PEA cardiac arrest s/p CPR with ROSC in 3 minute
 - The ED team is trying to get hold of the cardiology team. Would you wait for cardiology or proceed with stroke code? 
 
 ### Imaging
-
 Finally, the patient is stable and cardiology has arrived at the bedside. They are going over ECG. You ask the team to take the patient to CT:
 
+# Imaging
+<details>
+  <summary>Click to expand!</summary>
+  
+  
 ![figure_1](images/case_2/figure_1.JPG)
+  
+</details>
 
 The CT technician, been waiting for almost 30 minutes to do the scan, is asking the nurse to take the patient off the table. However, you ask the technician to proceed with CTA:
 
