@@ -7,9 +7,8 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 
 ### Stroke Code Imaging
 
-#### CT Head
 <details>
- <summary></summary>
+ <summary>#### CT head</summary>
  
 ![CT Head](images/case_1/CTH.png)
  
@@ -18,7 +17,7 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head and neck at this point.You ask the primary team to check her most recent creatinine which is 0.5. You proceed with CTA to call it the day. 
 
 <details>
- <summary></summary>
+ <summary>#### CTA Head and Neck</summary>
  
 ![CTA neck](images/case_1/CTA.png)
  
