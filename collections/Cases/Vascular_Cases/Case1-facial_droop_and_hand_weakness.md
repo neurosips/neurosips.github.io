@@ -30,11 +30,10 @@ Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head
   - What recommendations would you give? 
 
 
-### Brain MRI
 Brain MRI was done within 3 hours after stroke code. 
 
 <details>
- <summary></summary>
+ <summary><b>Brain MRI</b></summary>
  
 ![DWI1](images/case_1/DWI_1.PNG)
 ![DWI2](images/case_1/DWI2.PNG)
