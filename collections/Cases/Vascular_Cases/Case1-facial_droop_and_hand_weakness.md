@@ -12,6 +12,7 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
  <summary></summary>
  
 ![CT Head](images/case_1/CTH.png>
+ 
 </details>
 
 Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head and neck at this point.You ask the primary team to check her most recent creatinine which is 0.5. You proceed with CTA to call it the day. 
@@ -33,10 +34,14 @@ Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head
 ### Brain MRI
 Brain MRI was done within 3 hours after stroke code. 
 
+<details>
+ <summary></summary>
+ 
 ![DWI1](images/case_1/DWI_1.PNG)
 ![DWI2](images/case_1/DWI2.PNG)
 ![DWI3](images/case_1/DWI_3.PNG)
-
+ 
+ </details>
 
 ### Questions
 - How does the new MRI findings change your management? 
