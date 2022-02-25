@@ -6,14 +6,22 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 
 
 ### Stroke Code Imaging
-CT head showed hypodensity in the right caudate with no hemorrhage.
+
+#### CT Head
+<details>
+ <summary></summary>
  
-![CT Head](images/case_1/CTH.png)
+![CT Head](images/case_1/CTH.png>
+</details>
 
+Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head and neck at this point.You ask the primary team to check her most recent creatinine which is 0.5. You proceed with CTA to call it the day. 
 
-CTA head and neck showed filling defect starting from right carotid bulb with extension to the right ICA likely representing ruptured soft plaque with intraluminal thrombus formation. 
-
+<details>
+ <summary></summary>
+ 
 ![CTA neck](images/case_1/CTA.png)
+ 
+ </details>
 
 ### Questions
 - What would you do at this point?
