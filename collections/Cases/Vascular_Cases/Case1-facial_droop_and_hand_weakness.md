@@ -11,7 +11,7 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 <details>
  <summary></summary>
  
-![CT Head](images/case_1/CTH.png>
+![CT Head](images/case_1/CTH.png)
  
 </details>
 
