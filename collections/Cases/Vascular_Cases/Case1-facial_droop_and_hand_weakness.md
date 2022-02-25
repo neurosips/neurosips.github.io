@@ -6,11 +6,13 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 
 
 ### Stroke Code Imaging
-CT head showed hypodensity in the right caudate with no hemorrhage. 
+CT head showed hypodensity in the right caudate with no hemorrhage.
+ 
 ![CT Head](images/case_1/CTH.png)
 
 
 CTA head and neck showed filling defect starting from right carotid bulb with extension to the right ICA likely representing ruptured soft plaque with intraluminal thrombus formation. 
+
 ![CTA neck](images/case_1/CTA.png)
 
 ### Questions
