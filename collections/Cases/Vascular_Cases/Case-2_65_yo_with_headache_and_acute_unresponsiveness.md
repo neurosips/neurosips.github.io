@@ -1,7 +1,7 @@
 ## Case 2: 65 YO M with a history of mild headache since morning who became unresponsive
 
 ### Synopsis
-65 YO M with no significant PMHx who woke up with mild headache which persisted throughout the day. He developed a sudden severe neck pain. EMS was called. Per EMS, his SBP was
+65 YO M with unclear past medical histroy (on Levetiracetam with unclear seizure history) who woke up with mild headache which persisted throughout the day. He developed a sudden severe neck pain. EMS was called. Per EMS, his SBP was
 270.He became unresponsive en route to the hospital. Stroke code was activated. In the ED, he was unresponsive, his eyes were open, no blink to threat, corneal reflex -ve, VOR -ve.
 On the way to CT scan, he had a PEA cardiac arrest s/p CPR with ROSC in 3 minutes. ECG showed ST elevation in aVR and diffuse T-wave inversions. 
 
