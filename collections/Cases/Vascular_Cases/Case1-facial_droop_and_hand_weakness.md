@@ -8,7 +8,7 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 ### Stroke Code Imaging
 
 <details>
- <summary>#### CT head</summary>
+ <summary>####CT head</summary>
  
 ![CT Head](images/case_1/CTH.png)
  
