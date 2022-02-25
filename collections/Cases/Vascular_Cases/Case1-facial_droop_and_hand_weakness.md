@@ -7,11 +7,11 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 
 #### Stroke Code Imaging
 CT head showed hypodensity in the right caudate with no hemorrhage. 
-![CT Head]('images/case_1/CTH.png')
+![CT Head](images/case_1/CTH.png)
 
 
 CTA head and neck showed filling defect starting from right carotid bulb with extension to the right ICA likely representing ruptured soft plaque with intraluminal thrombus formation. 
-![CTA neck]('images/case_1/CTA.png')
+![CTA neck](images/case_1/CTA.png)
 
 #### Questions
 - What would you do at this point?
@@ -22,9 +22,9 @@ CTA head and neck showed filling defect starting from right carotid bulb with ex
 
 #### Brain MRI
 Brain MRI was done within 3 hours after stroke code. 
-![Diffusion-weighted Imaging]('DWI_1.png')
-![Diffusion-weighted Imaging]('DWI_2.png')
-![Diffusion-weighted Imaging]('DWI_3.png')
+![Diffusion-weighted Imaging](images/case_1/DWI_1.png)
+![Diffusion-weighted Imaging](images/case_1/DWI_2.png)
+![Diffusion-weighted Imaging](images/case_1/DWI_3.png)
 
 
 #### Questions
