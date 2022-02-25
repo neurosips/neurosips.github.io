@@ -17,7 +17,7 @@ NIHSS was 1 for minor facial droop. No upper extremity drift but finger extensio
 Given that the NIHSS is 1, you are not sure if you want to proceed with CTA head and neck at this point.You ask the primary team to check her most recent creatinine which is 0.5. You proceed with CTA to call it the day. 
 
 <details>
- <summary>#### CTA Head and Neck</summary>
+ <summary><b>CTA Head and Neck</b></summary>
  
 ![CTA neck](images/case_1/CTA.png)
  
