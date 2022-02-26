@@ -24,8 +24,7 @@ tags: [learning resources]
 
 {% enddetails %}
 
-# Neuroanatomy
----
+{% details **Neuroanatomy** %}
 ## Best Neuroanatomy Books: 
 - Nolte's human neuroanatomy is one of the best neuroscience and neuroanatomy textbooks you can find. 
 - Blumenfeld's clinical neuroanatomy is also a very good neuroanatomy textbook that provides good clinical cases as well. 
@@ -34,9 +33,9 @@ tags: [learning resources]
 - [University of Utah Brain Dissection](https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html){:target="_blank"} 
 - [UBC Neuroanatomy](https://neuroanatomy.ca){:target="_blank"} 
 
+{% enddetails %}
 
-# Epilepsy and EEG
----
+{% details **Epilepsy and EEG** %}
 ## From Basics to Advanced EEG
 - [learningeeg.com](https://www.learningeeg.com/){:target:"_blank"} provides a great brief introduction to the basics of EEG. 
 - There are multiple online videos: 
@@ -45,17 +44,24 @@ tags: [learning resources]
   - [EEGucation](https://www.youtube.com/user/EEGucation/featured) is a youtube channel with in-depth lectures on EEG and epilepsy that provides practical information regarding reading EEG.  
 - *Rowan's Primer of EEG* is a great EEG introductory book. 
 
-# Vascular Neurology
----
+{% enddetails %}
+
+
+{% details **Vascular Neurology** %}
 - Aaron Berkowitz's chapter on vascular neurology and stroke is a great introduction to vascular Neurology. 
 - [Introduction to CT perfusion parameters](https://youtu.be/_FtwOCRbUgA){:target="_blank"} : provides a short and easy introduction to CT perfusion imaging and its parameters.
 
+{% enddetails %}
 
-# Movement disorder
----
+{% details **Movement Disorders** %}
 - [Yale Movement Disorders Modules](https://movementmodules.yale.edu/){:target="_blank"} is an outstanding resource to learn Basics of Movement Disorders.
 
 
-# Neuro-ophthalmology
----
+{% enddetails %}
+
+
+{% details **Neuro-ophthalmology** %}
+
 - [How to Use an Ophthalmoscope](https://www.bmj.com/content/329/7461/s56){:target="_blank"} 
+
+{% enddetails %}
