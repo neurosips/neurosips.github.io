@@ -18,3 +18,7 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+
+#ignore metadata
+./assets/img/EEGAtlas/*/*/*/metadata.txt

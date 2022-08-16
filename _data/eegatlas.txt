@@ -1,0 +1,84 @@
+#normal-eeg
+Awake, adult PDR 
+Awake, pediatric PDR
+Drowsiness, slowing of PDR 
+Stage 2 sleep, sleep spindles 
+Stage 2 sleep, K complexes
+Drowsiness, diffuse irregular delta-theta slowing of background
+Stage 1/2 sleep, vertex waves
+Drowsiness, slow roving lateral eye movements 
+Stage 1/2 sleep, POSTS 
+Stage 3 sleep, diffuse irregular delta slowing 
+Rapid eye movement (REM) sleep, erratic eye movements 
+Rapid eye movement (REM) sleep, sawtooth waves 
+
+
+#normalvariants-eeg
+Wickets 
+Hyperventilation-induced slowing 
+Small sharp spikes 
+Breach 
+Rhythmic mid-temporal theta of drowsiness 
+Hypnopompic hypersynchrony 
+Hypnagogic hypersynchrony 
+Photic driving 
+Mu rhythm 
+Posterior slow waves of youth 
+Photomyogenic response 
+Lambda waves 
+Temporal slowing of the elderly 
+Slow alpha variant 
+6 Hz phantom spikes 
+Frontal arousal rhythm
+14-and-6 Hz positive spikes 
+Increased frontal beta activity 
+Subclinical rhythmic electrographic discharges in adults 
+Fast alpha variant 
+Midline central theta (Ciganek rhythm)
+Occipital needle-like spikes of blindness
+Slow fused transient 
+Fronto-central rhythm (texting rhythm)
+
+
+#artifacts
+EKG 
+Eye blinks 
+Electrode pop
+Myogenic 
+Eye fluttering
+Lateral eye movements 
+60-/50-Hz artifact
+Pulse 
+Lateral rectus spikes
+Chewing/bruxism
+Sweat 
+Glossokinetic
+Nystagmus 
+Respiration/breathing 
+
+
+#abnormal-eeg
+Generalized epileptiform discharge,3 Hz 
+Generalized epileptiform discharge, 3-5 Hz, polyspike 
+Focal seizure 
+Focal epileptiform discharge, spike 
+Focal epileptiform discharge, sharp 
+Generalized seizure, absence
+Generalized epileptiform discharge, <2.5 Hz 
+Focal epileptiform polyspike 
+Generalized seizure, tonic 
+Infantile spasm 
+Hypsarrhythmia 
+Focal irregular/polymorphic slowing 
+Focal regular/rhythmic slowing 
+Diffuse irregular/polymorphic slowing 
+Diffuse regular/rhythmic slowing 
+Abnormal PDR, slow for age 
+Abnormal PDR, asymmetric 
+Asymmetric sleep spindles
+
+
+#icu-eeg
+Lateralized Rhythmic Delta Activity (LRDA)
+
+
