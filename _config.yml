@@ -23,16 +23,16 @@ timezone: America/New_York
 
 title: NeuroSips
 
-tagline: Epilepsy and Seizure, Electrophysiology and Neuroimaging, Neuromodulation and Neurotechnology, Cortex and Thalamus # it will display as the sub-title
+tagline: Epilepsy, Cortex and Thalamus, Neurotechnology, Cognition
 
 description: >-                       # used by seo meta and the atom feed
   Neurology and Human Neuroscience 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://neuroeegatlas.github.io'
+url: 'https://neurosips.github.io'
 
 github:
-  username: NeuroEEGAtlas          # change to your github username
+  username: neurosips          # change to your github username
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
@@ -44,8 +44,8 @@ social:
   email: neurosips@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-   # - https://twitter.com/username      # change to your twitter homepage
-   # - https://github.com/username       # change to your github homepage
+   # - https://twitter.com/ehsantadayon     # change to your twitter homepage
+   # - https://github.com/ehsantadayon       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
