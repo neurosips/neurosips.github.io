@@ -14,10 +14,10 @@ Rapid eye movement (REM) sleep, sawtooth waves
 
 
 #normalvariants-eeg
-Wickets 
+wicket spike/rhythm
 Hyperventilation-induced slowing 
-Small sharp spikes 
-Breach 
+benign epileptiform transients of sleep
+Breach rhythm
 Rhythmic mid-temporal theta of drowsiness 
 Hypnopompic hypersynchrony 
 Hypnagogic hypersynchrony 
@@ -27,17 +27,17 @@ Posterior slow waves of youth
 Photomyogenic response 
 Lambda waves 
 Temporal slowing of the elderly 
-Slow alpha variant 
-6 Hz phantom spikes 
+6 Hz spike-and-wave bursts 
 Frontal arousal rhythm
 14-and-6 Hz positive spikes 
 Increased frontal beta activity 
-Subclinical rhythmic electrographic discharges in adults 
-Fast alpha variant 
+Subclinical rhythmic electrographic discharge in adults 
 Midline central theta (Ciganek rhythm)
 Occipital needle-like spikes of blindness
 Slow fused transient 
 Fronto-central rhythm (texting rhythm)
+Frontal sleep spindles
+Alpha variant (fast/slow)
 
 
 #artifacts
@@ -57,6 +57,8 @@ Nystagmus
 Respiration/breathing 
 
 
+
+
 #abnormal-eeg
 Generalized epileptiform discharge,3 Hz 
 Generalized epileptiform discharge, 3-5 Hz, polyspike 
@@ -69,16 +71,23 @@ Focal epileptiform polyspike
 Generalized seizure, tonic 
 Infantile spasm 
 Hypsarrhythmia 
-Focal irregular/polymorphic slowing 
-Focal regular/rhythmic slowing 
-Diffuse irregular/polymorphic slowing 
+Continuous and intermittent focal polymorphic slowing
+Intermittent rhythmic delta activity
+Generalized polymorphic slowing
+Generalized rhythmic delta activity
 Diffuse regular/rhythmic slowing 
 Abnormal PDR, slow for age 
 Abnormal PDR, asymmetric 
 Asymmetric sleep spindles
+Photoparoxysmal response
+Centro-Temporal (Rolandic) spikes
+Generalized paroxysmal fast activity
 
 
 #icu-eeg
 Lateralized Rhythmic Delta Activity (LRDA)
-
+Alpha coma
+Burst suppression
+Lateralized periodic discharges
+Generalized periodic discharges
 
