@@ -6,7 +6,8 @@ toc: true
 author: Ehsan Tadayon,MD
 permalink: /EEGAtlas
 ---
-We have gathered the following EEG Atlas for adult and child neurology residents and fellows. The following collection is mainly based on an article "Competency-based EEG education: a list of “must-know” EEG findings for adult and child neurology residents" by Nascimento et. al with some modifications. The following collection would have not been possible without Dr.Ritu Bagla's supervision and mentorship.
+
+We have gathered the following EEG Atlas for the adult and child neurology residents and fellows. The following collection is mainly based on the <i><a href="https://pubmed.ncbi.nlm.nih.gov/35904042/">"must-know" EEG findings</a></i> by Nascimento et al with some modifications. The following collection would have not been possible without supervision and mentorship of <i>Dr. Ritu Bagla</i>. 
 
  <h2> Normal EEG </h2>
 <li> <a href='/EEGAtlas/normal-eeg/Awake_adult_PDR'> Awake, adult PDR  </a> 
