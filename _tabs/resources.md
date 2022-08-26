@@ -7,4 +7,5 @@ toc: true
 order: 1
 ---
 
-- <h3><a href="/EEGAtlas">EEG Atlas</a></h3>
+<h2>EEG and Electrophysiology</h2>
+<li> <a href="/EEGAtlas">EEG Atlas</a>
