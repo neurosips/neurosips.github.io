@@ -7,4 +7,4 @@ toc: true
 order: 1
 ---
 
-<li><h2><a href="/EEGAtlas">EEG Atlas</a></h2>
+- <h3><a href="/EEGAtlas">EEG Atlas</a></h3>
