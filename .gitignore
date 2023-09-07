@@ -22,3 +22,6 @@ package-lock.json
 
 #ignore metadata
 ./assets/img/EEGAtlas/*/*/*/metadata.txt
+
+#EEGatlas.xls
+EEGATLAS.xlsx
