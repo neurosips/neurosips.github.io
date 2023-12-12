@@ -8,11 +8,9 @@ permalink: /EEGAtlas
 ---
 
 <h1>EEG Atlas</h1>
-We have gathered the following EEG Atlas for the adult and child neurology residents and fellows. The following collection is mainly based on the <i><a href="https://pubmed.ncbi.nlm.nih.gov/35904042/" targe="_blank">"must-know" EEG findings</a></i> by Nascimento et al with some modifications. 
+We have gathered the following EEG Atlas for the adult and child neurology residents and fellows. The following collection is mainly based on the <i><a href="https://pubmed.ncbi.nlm.nih.gov/35904042/" targe="_blank">"must-know" EEG findings</a></i> by Nascimento et al with some modifications.  
 
-The following collection would have not been possible without supervision and mentorship of <i>Dr. Ritu Bagla</i>. 
-
- <h2> Normal EEG </h2>
+<h2> Normal EEG </h2>
 <li> <a href='/EEGAtlas/normal-eeg/Awake_adult_PDR'> Awake, adult PDR  </a> 
 <li> <a href='/EEGAtlas/normal-eeg/Awake_pediatric_PDR'> Awake, pediatric PDR </a> 
 <li> <a href='/EEGAtlas/normal-eeg/Drowsiness_slowing_of_PDR'> Drowsiness, slowing of PDR  </a> 
@@ -94,7 +92,3 @@ The following collection would have not been possible without supervision and me
 <li> <a href='/EEGAtlas/icu-eeg/Burst_suppression'> Burst suppression </a> 
 <li> <a href='/EEGAtlas/icu-eeg/Lateralized_periodic_discharges'> Lateralized periodic discharges </a> 
 <li> <a href='/EEGAtlas/icu-eeg/Generalized_periodic_discharges'> Generalized periodic discharges </a> 
-
-
-<h1>Quantitative EEG</h1>
-<li> Introduction to Spectrogram </li>
