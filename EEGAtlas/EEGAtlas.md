@@ -94,3 +94,7 @@ The following collection would have not been possible without supervision and me
 <li> <a href='/EEGAtlas/icu-eeg/Burst_suppression'> Burst suppression </a> 
 <li> <a href='/EEGAtlas/icu-eeg/Lateralized_periodic_discharges'> Lateralized periodic discharges </a> 
 <li> <a href='/EEGAtlas/icu-eeg/Generalized_periodic_discharges'> Generalized periodic discharges </a> 
+
+
+<h1>Quantitative EEG</h1>
+<li> Introduction to Spectrogram </li>
