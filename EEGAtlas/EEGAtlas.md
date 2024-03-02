@@ -88,7 +88,7 @@ We have gathered the following EEG Atlas for the adult and child neurology resid
 <li> <a href='/EEGAtlas/abnormal-eeg/Generalized_paroxysmal_fast_activity'> Generalized paroxysmal fast activity </a> 
 
 <h2> EMU EEG </h2>
-<li> <a href='/EEGAtlas/abnormal-eeg/Ictal_asystole'> Ictal Asystole </a> 
+<li> <a href='/EEGAtlas/emu-eeg/Ictal_asystole'> Ictal Asystole </a> 
   
  <h2> ICU EEG </h2>
 <li> <a href='/EEGAtlas/icu-eeg/Lateralized_Rhythmic_Delta_Activity_(LRDA)'> Lateralized Rhythmic Delta Activity (LRDA) </a> 
