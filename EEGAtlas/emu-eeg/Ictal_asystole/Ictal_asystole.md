@@ -6,6 +6,5 @@ subtitle: EMU EEG
 author: Ritu
 permalink: /EEGAtlas/emu-eeg/Ictal_asystole
 ---
-
-
-Ictal Asystole in patient with temporal lobe epilepsy lasting 30 seconds.. 
+![example-01](/assets/img/EEGAtlas/emu-eeg/Ictal_asystole/example-01.png)
+_Note no EKG activity_
